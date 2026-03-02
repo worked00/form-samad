@@ -7,7 +7,7 @@
     { "src": "/hb", "dest": "/hb.js" },
     { "src": "/Kalopass", "dest": "/Kalopass.js" },
     { "src": "/Sabir", "dest": "/Sabir.js" },
-    { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
+    { "src": "/anabiya", "dest": "/anabiya.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/waris", "dest": "/waris.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
